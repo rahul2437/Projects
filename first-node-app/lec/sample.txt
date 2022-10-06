@@ -1,0 +1,1 @@
+Hello I am reading you from node fs.

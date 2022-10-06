@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "message": "New Post 1" },
+    { "id": 2, "message": "New Post 2" },
+    { "id": 3, "message": "New Post 3" },
+    { "id": 4, "message": "New Post 4" },
+    { "id": 5, "message": "New Post 5" }
+  ]
+}
